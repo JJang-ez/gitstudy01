@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d21aa2e-9517-4b3e-835b-2a062eb71e0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aaaa.html" afterDir="false" />
-    </list>
+    <list default="true" id="6d21aa2e-9517-4b3e-835b-2a062eb71e0f" name="Changes" comment="dddd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -61,8 +66,25 @@
       <option name="presentableId" value="Default" />
       <updated>1742434476484</updated>
       <workItem from="1742434477799" duration="2268000" />
-      <workItem from="1742436771810" duration="332000" />
+      <workItem from="1742436771810" duration="5443000" />
     </task>
+    <task id="LOCAL-00001" summary="ddd">
+      <option name="closed" value="true" />
+      <created>1742437264447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742437264447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dddd">
+      <option name="closed" value="true" />
+      <created>1742437300723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742437300723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,22 +95,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="dev" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ddd" />
+    <MESSAGE value="dddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dddd" />
   </component>
 </project>
